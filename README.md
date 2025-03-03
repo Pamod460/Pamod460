@@ -2,10 +2,10 @@
     <h1>👋 Hi, I'm Pamod kaushika</h1>
     <h3>👨‍💻 Enthusiastic IT Learner | 🎓 Undergraduate at UCSC</h3>
 </div>
-
+<!-- 
 ---
 
-<!-- <div align="center">
+<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipunBasnayake&theme=transparent&hide_border=false" alt="GitHub Streak Stats" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunBasnayake&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
