@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pamod460&theme=transparent&type=png" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pamod460&theme=transparent&type=svg" alt="GitHub Streak" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
