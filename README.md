@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pamod460&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Pamod460&theme=dark" alt="GitHub Streak" /></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
