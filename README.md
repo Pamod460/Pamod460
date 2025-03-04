@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&theme=dark&show_icons=true&count_private=true" />
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pamod460&theme=dark&show_icons=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
 </div>
 
