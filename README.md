@@ -12,7 +12,7 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pamod460&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pamod460" alt="GitHub Streak" /></a>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pamod460)](https://git.io/streak-stats)
+  
 </td>
 <td width="50%" align="center">
 
