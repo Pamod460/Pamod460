@@ -68,7 +68,7 @@ const pamod = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pamod460&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 ---
 
