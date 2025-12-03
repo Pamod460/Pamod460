@@ -18,7 +18,7 @@
 
 ```javascript
 const pamod = {
-    location: "Negombo, Sri Lanka 🇱🇰",
+    location: "Gampaha, Sri Lanka 🇱🇰",
     education: "UCSC - IT Undergraduate",
     currentFocus: ["Full Stack Development", "Cloud Technologies"],
     learning: ["Spring Boot", "Angular", "Modern Web Architecture"],
