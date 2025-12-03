@@ -112,6 +112,10 @@ const pamod = {
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pamod460/Pamod460/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+</p>
+
 <div align="center">
   
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
