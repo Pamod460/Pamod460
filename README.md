@@ -20,8 +20,8 @@
 const pamod = {
     location: "Gampaha, Sri Lanka 🇱🇰",
     education: "UCSC - IT Undergraduate",
-    currentFocus: ["Full Stack Development", "Cloud Technologies"],
-    learning: ["Spring Boot", "Angular", "Modern Web Architecture"],
+    currentFocus: ["Full Stack Development", "Cloud Technologies", "Mobile App Development"],
+    learning: ["Spring Boot", "Angular", "Modern Web Architecture", "Flutter"],
     funFact: "Turning coffee into code since day one ☕"
 };
 ```
