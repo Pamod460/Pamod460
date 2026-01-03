@@ -57,7 +57,7 @@ const pamod = {
 
 ---
 
-## 📊 GitHub Analytics
+<p align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pamod460&show_icons=true&theme=tokyonight)
 
@@ -65,7 +65,7 @@ const pamod = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pamod460&theme=tokyonight)
 
-
+</p>
 
 
 ---
