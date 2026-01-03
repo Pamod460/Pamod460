@@ -59,18 +59,12 @@ const pamod = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pamod460&show_icons=true&theme=tokyonight)
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Pamod460&show_icons=true&theme=tokyonight&hide_border=true" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&layout=compact&theme=tokyonight)
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Pamod460&theme=tokyonight)
 
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Pamod460&theme=tokyonight" />
-
-</div>
 
 
 
