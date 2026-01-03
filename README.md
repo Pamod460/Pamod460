@@ -60,13 +60,16 @@ const pamod = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamod460&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pamod460&theme=transparent&hide_border=false" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pamod460&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" alt="GitHub Streak" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Pamod460&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Pamod460&theme=tokyonight" />
+
 </div>
 
 
