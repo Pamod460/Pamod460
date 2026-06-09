@@ -63,10 +63,16 @@ const pamod = {
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamod460&show_icons=true&bg_color=00000000" alt="my Github Stats"/> -->
     <img src="https://streak-stats.demolab.com/?user=Pamod460&theme=dark&hide_border=false" alt="GitHub Streak" />
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Pamod460&theme=transparent&hide_border=false" alt="GitHub Streak" />
-</div><br>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Pamod460&theme=transparent&hide_border=false" alt="GitHub Streak" /> -->
+</div>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=SachinthaAbeygunasekara&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SachinthaAbeygunasekara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" alt="Top Languages" />
+</div>
 
 ---
 
