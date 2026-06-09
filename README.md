@@ -60,7 +60,8 @@ const pamod = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamod460&show_icons=true&bg_color=00000000" alt="my Github Stats"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pamod460&show_icons=true&bg_color=00000000" alt="my Github Stats"/> -->
+    <img src="https://streak-stats.demolab.com/?user=Pamod460&theme=dark&hide_border=false" alt="GitHub Streak" />
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinthaAbeygunasekara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamod460&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8"/><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Pamod460&theme=transparent&hide_border=false" alt="GitHub Streak" />
