@@ -69,9 +69,9 @@ const pamod = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SachinthaAbeygunasekara&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Pamod460&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SachinthaAbeygunasekara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SachinthaAbPamod460eygunasekara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="170" alt="Top Languages" />
 </div>
 
 ---
